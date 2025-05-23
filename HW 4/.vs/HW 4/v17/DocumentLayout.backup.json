@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HOMEWORK\\HW C# Pro\\HW 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99A03799-B66A-462B-825E-902C285E36A6}|4.4\\4.4.csproj|d:\\homework\\hw c# pro\\hw 4\\4.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A03799-B66A-462B-825E-902C285E36A6}|4.4\\4.4.csproj|solutionrelative:4.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A03799-B66A-462B-825E-902C285E36A6}|4.4\\4.4.csproj|d:\\homework\\hw c# pro\\hw 4\\4.4\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A03799-B66A-462B-825E-902C285E36A6}|4.4\\4.4.csproj|solutionrelative:4.4\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD5F384-51C6-465B-BDA7-B93273D0B801}|4.3\\4.3.csproj|d:\\homework\\hw c# pro\\hw 4\\4.3\\programtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD5F384-51C6-465B-BDA7-B93273D0B801}|4.3\\4.3.csproj|solutionrelative:4.3\\programtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD5F384-51C6-465B-BDA7-B93273D0B801}|4.3\\4.3.csproj|d:\\homework\\hw c# pro\\hw 4\\4.3\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD5F384-51C6-465B-BDA7-B93273D0B801}|4.3\\4.3.csproj|solutionrelative:4.3\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F83269-2351-48EA-A16F-09E83EB8EEDA}|4.2\\4.2.csproj|d:\\homework\\hw c# pro\\hw 4\\4.2\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F83269-2351-48EA-A16F-09E83EB8EEDA}|4.2\\4.2.csproj|solutionrelative:4.2\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC4C016-A3F0-46D9-9E73-911F3EF6164B}|4.1\\4.1.csproj|d:\\homework\\hw c# pro\\hw 4\\4.1\\programtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FC4C016-A3F0-46D9-9E73-911F3EF6164B}|4.1\\4.1.csproj|solutionrelative:4.1\\programtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC4C016-A3F0-46D9-9E73-911F3EF6164B}|4.1\\4.1.csproj|d:\\homework\\hw c# pro\\hw 4\\4.1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FC4C016-A3F0-46D9-9E73-911F3EF6164B}|4.1\\4.1.csproj|solutionrelative:4.1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F83269-2351-48EA-A16F-09E83EB8EEDA}|4.2\\4.2.csproj|d:\\homework\\hw c# pro\\hw 4\\4.2\\programtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F83269-2351-48EA-A16F-09E83EB8EEDA}|4.2\\4.2.csproj|solutionrelative:4.2\\programtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "D:\\HOMEWORK\\HW C# Pro\\HW 4\\4.4\\Matrix.cs",
+              "RelativeDocumentMoniker": "4.4\\Matrix.cs",
+              "ToolTip": "D:\\HOMEWORK\\HW C# Pro\\HW 4\\4.4\\Matrix.cs",
+              "RelativeToolTip": "4.4\\Matrix.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:13:33.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreditCard.cs",
+              "DocumentMoniker": "D:\\HOMEWORK\\HW C# Pro\\HW 4\\4.3\\CreditCard.cs",
+              "RelativeDocumentMoniker": "4.3\\CreditCard.cs",
+              "ToolTip": "D:\\HOMEWORK\\HW C# Pro\\HW 4\\4.3\\CreditCard.cs",
+              "RelativeToolTip": "4.3\\CreditCard.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:13:08.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "City.cs",
+              "DocumentMoniker": "D:\\HOMEWORK\\HW C# Pro\\HW 4\\4.2\\City.cs",
+              "RelativeDocumentMoniker": "4.2\\City.cs",
+              "ToolTip": "D:\\HOMEWORK\\HW C# Pro\\HW 4\\4.2\\City.cs",
+              "RelativeToolTip": "4.2\\City.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:12:40.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\HOMEWORK\\HW C# Pro\\HW 4\\4.1\\Employee.cs",
+              "RelativeDocumentMoniker": "4.1\\Employee.cs",
+              "ToolTip": "D:\\HOMEWORK\\HW C# Pro\\HW 4\\4.1\\Employee.cs",
+              "RelativeToolTip": "4.1\\Employee.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:11:50.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HOMEWORK\\HW C# Pro\\HW 4\\4.4\\Program.cs",
+              "RelativeDocumentMoniker": "4.4\\Program.cs",
+              "ToolTip": "D:\\HOMEWORK\\HW C# Pro\\HW 4\\4.4\\Program.cs",
+              "RelativeToolTip": "4.4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:10:49.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgramTest.cs",
+              "DocumentMoniker": "D:\\HOMEWORK\\HW C# Pro\\HW 4\\4.3\\ProgramTest.cs",
+              "RelativeDocumentMoniker": "4.3\\ProgramTest.cs",
+              "ToolTip": "D:\\HOMEWORK\\HW C# Pro\\HW 4\\4.3\\ProgramTest.cs",
+              "RelativeToolTip": "4.3\\ProgramTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:10:33.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProgramTest.cs",
+              "DocumentMoniker": "D:\\HOMEWORK\\HW C# Pro\\HW 4\\4.2\\ProgramTest.cs",
+              "RelativeDocumentMoniker": "4.2\\ProgramTest.cs",
+              "ToolTip": "D:\\HOMEWORK\\HW C# Pro\\HW 4\\4.2\\ProgramTest.cs",
+              "RelativeToolTip": "4.2\\ProgramTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:10:21.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgramTest.cs",
+              "DocumentMoniker": "D:\\HOMEWORK\\HW C# Pro\\HW 4\\4.1\\ProgramTest.cs",
+              "RelativeDocumentMoniker": "4.1\\ProgramTest.cs",
+              "ToolTip": "D:\\HOMEWORK\\HW C# Pro\\HW 4\\4.1\\ProgramTest.cs",
+              "RelativeToolTip": "4.1\\ProgramTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:09:55.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
