@@ -8,6 +8,7 @@ namespace MyDoctorAppointment.Domain.Entities
         public string Surname { get; set; }
         public string? Phone { get; set; }
         public string? Email { get; set; }
+        public UserBase() { }
         public UserBase(string name, string surname, string? phone = null, string? email = null)
         {
             Validator.ThrowIfNullOrWhiteSpace(name, nameof(Name));

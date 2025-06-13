@@ -114,11 +114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj",
+      "projectUniqueName": "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj",
       "projectName": "DoctorAppointmentDemo.UI",
-      "projectPath": "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj",
+      "projectPath": "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj",
       "packagesPath": "C:\\Users\\Oleksandr Pyliavets\\.nuget\\packages\\",
-      "outputPath": "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\obj\\",
+      "outputPath": "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -132,15 +132,14 @@
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj": {
-              "projectPath": "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj"
+            "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj": {
+              "projectPath": "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj"
             }
           }
         }

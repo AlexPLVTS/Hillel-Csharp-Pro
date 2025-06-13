@@ -1,6 +1,8 @@
-﻿using MyDoctorAppointment.Data.Configuration;
+﻿using DoctorAppointmentDemo.Data.Interfaces;
+using MyDoctorAppointment.Data.Configuration;
 using MyDoctorAppointment.Data.Interfaces;
 using MyDoctorAppointment.Domain.Entities;
+using Newtonsoft.Json;
 
 namespace MyDoctorAppointment.Data.Repositories
 {
@@ -9,20 +11,39 @@ namespace MyDoctorAppointment.Data.Repositories
         public override string Path { get; set; }
 
         public override int LastId { get; set; }
-
-        public DoctorRepository()
+        private string _format;
+        public DoctorRepository(ISerializer<Doctor> serializer, string settingsPath, string format)
+        : base(serializer, settingsPath)
         {
-            var result = ReadFromAppSettings();
+            _format = format;
 
-            Path = result.Database.Doctors.Path;
-            LastId = result.Database.Doctors.LastId;
+            if (_format == "json")
+            {
+                var result = ReadFromAppSettingsJson();
+                Path = result.Database.Doctors.Path;
+                LastId = result.Database.Doctors.LastId;
+            }
+            else // xml
+            {
+                var doc = ReadFromAppSettingsXml();
+                Path = doc.Root.Element("Doctors").Element("Path").Value;
+                LastId = int.Parse(doc.Root.Element("Doctors").Element("LastId").Value);
+            }
         }
         protected override void SaveLastId()
         {
-            var result = ReadFromAppSettings();
-            result.Database.Doctors.LastId = LastId;
-
-            File.WriteAllText(Constants.AppSettingsPath, result.ToString());
+            if (_format == "json")
+            {
+                var result = ReadFromAppSettingsJson();
+                result.Database.Doctors.LastId = LastId;
+                File.WriteAllText(_settingsPath, result.ToString());
+            }
+            else
+            {
+                var doc = ReadFromAppSettingsXml();
+                doc.Root.Element("Doctors").Element("LastId").Value = LastId.ToString();
+                doc.Save(_settingsPath);
+            }
         }
     }
 }

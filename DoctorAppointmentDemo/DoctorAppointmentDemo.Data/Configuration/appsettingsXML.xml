@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Doctors>
+    <Path>C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Data\MockedDatabase\XML\doctors.xml</Path>
+    <LastId>4</LastId>
+  </Doctors>
+  <Patients>
+    <Path>C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Data\MockedDatabase\XML\patients.xml</Path>
+    <LastId>2</LastId>
+  </Patients>
+  <Appointments>
+    <Path>C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Data\MockedDatabase\XML\appointments.xml</Path>
+    <LastId>1</LastId>
+  </Appointments>
+</Entities>

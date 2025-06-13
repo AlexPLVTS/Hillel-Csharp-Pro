@@ -5,8 +5,9 @@ namespace MyDoctorAppointment.Domain.Entities
 {
     public class Doctor : UserBase
     {
-        public DoctorTypes DoctorType { get; }
-        public DateTime StartDate { get; }
+        public DoctorTypes DoctorType { get; set; }
+        public DateTime StartDate { get; set; }
+        public Doctor () { }
         public Doctor(string name, string surname, DoctorTypes doctorType, DateTime startDate) : base(name, surname)
         {
             DoctorType = doctorType;

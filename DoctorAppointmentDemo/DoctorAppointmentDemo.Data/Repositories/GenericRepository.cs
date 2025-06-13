@@ -1,14 +1,28 @@
-﻿using MyDoctorAppointment.Data.Configuration;
+﻿using DoctorAppointmentDemo.Data.Interfaces;
+using MyDoctorAppointment.Data.Configuration;
 using MyDoctorAppointment.Data.Interfaces;
 using MyDoctorAppointment.Domain.Entities;
 using Newtonsoft.Json;
+using System.Data;
+using System.Xml;
+using System.Xml.Linq;
+using System.Xml.Serialization;
 
 namespace MyDoctorAppointment.Data.Repositories
 {
     public abstract class GenericRepository<TSource> : IGenericRepository<TSource> where TSource : Auditable
     {
+        protected readonly ISerializer<TSource> _serializer;
+        protected readonly string _settingsPath;
+
         public abstract string Path { get; set; }
         public abstract int LastId { get; set; }
+
+        public GenericRepository(ISerializer<TSource> serializer, string settingsPath)
+        {
+            _serializer = serializer;
+            _settingsPath = settingsPath;
+        }
         public virtual TSource Create(TSource source)
         {
             source.Id = ++LastId;
@@ -28,16 +42,9 @@ namespace MyDoctorAppointment.Data.Repositories
         public virtual IEnumerable<TSource> GetAll()
         {
             if (!File.Exists(Path))
-            {
-                File.WriteAllText(Path, "[]");
-            }
-            var json = File.ReadAllText(Path);
-            if (string.IsNullOrWhiteSpace(json))
-            {
-                File.WriteAllText(Path, "[]");
-                json = "[]";
-            }
-            return JsonConvert.DeserializeObject<List<TSource>>(json) ?? new List<TSource>();
+                _serializer.Serialize(new List<TSource>(), Path);
+
+            return _serializer.Deserialize(Path);
         }
         public virtual TSource? GetById(int id)
         {
@@ -55,9 +62,10 @@ namespace MyDoctorAppointment.Data.Repositories
         }
         private void SaveAll(IEnumerable<TSource> entities)
         {
-            File.WriteAllText(Path, JsonConvert.SerializeObject(entities, Formatting.Indented));
+            _serializer.Serialize(entities.ToList(), Path);
         }
         protected abstract void SaveLastId();
-        protected dynamic? ReadFromAppSettings() => JsonConvert.DeserializeObject<dynamic>(File.ReadAllText(Constants.AppSettingsPath));
+        protected dynamic? ReadFromAppSettingsJson() => JsonConvert.DeserializeObject<dynamic>(File.ReadAllText(_settingsPath));
+        protected XDocument? ReadFromAppSettingsXml() => XDocument.Load(_settingsPath);
     }
 }

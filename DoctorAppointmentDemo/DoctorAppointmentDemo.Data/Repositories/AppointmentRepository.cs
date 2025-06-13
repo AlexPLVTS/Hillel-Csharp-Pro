@@ -14,18 +14,39 @@ namespace DoctorAppointmentDemo.Data.Repositories
     {
         public override string Path { get; set; }
         public override int LastId { get; set; }
-
-        public AppointmentRepository()
+        private string _format;
+        public AppointmentRepository(ISerializer<Appointment> serializer, string settingsPath, string format)
+        : base(serializer, settingsPath)
         {
-            var config = ReadFromAppSettings();
-            Path = config.Database.Appointments.Path;
-            LastId = config.Database.Appointments.LastId;
+            _format = format;
+
+            if (_format == "json")
+            {
+                var result = ReadFromAppSettingsJson();
+                Path = result.Database.Appointments.Path;
+                LastId = result.Database.Appointments.LastId;
+            }
+            else // xml
+            {
+                var doc = ReadFromAppSettingsXml();
+                Path = doc.Root.Element("Appointments").Element("Path").Value;
+                LastId = int.Parse(doc.Root.Element("Appointments").Element("LastId").Value);
+            }
         }
         protected override void SaveLastId()
         {
-            var config = ReadFromAppSettings();
-            config.Database.Appointments.LastId = LastId;
-            File.WriteAllText(Constants.AppSettingsPath, config.ToString());
+            if (_format == "json")
+            {
+                var result = ReadFromAppSettingsJson();
+                result.Database.Appointments.LastId = LastId;
+                File.WriteAllText(_settingsPath, result.ToString());
+            }
+            else
+            {
+                var doc = ReadFromAppSettingsXml();
+                doc.Root.Element("Appointments").Element("LastId").Value = LastId.ToString();
+                doc.Save(_settingsPath);
+            }
         }
     }
 }

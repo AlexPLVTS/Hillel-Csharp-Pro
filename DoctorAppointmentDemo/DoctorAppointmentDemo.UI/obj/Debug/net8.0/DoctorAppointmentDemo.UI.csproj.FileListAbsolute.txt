@@ -44,3 +44,27 @@ D:\HOMEWORK\HW C# Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\n
 D:\HOMEWORK\HW C# Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAp.CE4BB875.Up2Date
 D:\HOMEWORK\HW C# Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.genruntimeconfig.cache
 D:\HOMEWORK\HW C# Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\ref\DoctorAppointmentDemo.UI.dll
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.csproj.AssemblyReference.cache
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.AssemblyInfoInputs.cache
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.AssemblyInfo.cs
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.sourcelink.json
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.UI.exe
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.UI.deps.json
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.UI.runtimeconfig.json
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.UI.dll
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.UI.pdb
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.Data.dll
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.dll
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.Service.dll
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.Service.pdb
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.Data.pdb
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAp.CE4BB875.Up2Date
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.dll
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\refint\DoctorAppointmentDemo.UI.dll
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.pdb
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.genruntimeconfig.cache
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\ref\DoctorAppointmentDemo.UI.dll

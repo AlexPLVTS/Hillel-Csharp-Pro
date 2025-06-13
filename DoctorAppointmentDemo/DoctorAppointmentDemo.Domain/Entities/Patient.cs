@@ -10,6 +10,7 @@ namespace MyDoctorAppointment.Domain.Entities
         public IllnessTypes IllnessType { get; set; }
         public string? AdditionalInfo { get; set; }
         public Address Address { get; set; }
+        public Patient() { }
         public Patient(string name, string surname, IllnessTypes illnessType, Address address, string? additionalInfo = null) 
                         : base(name, surname)
         {
@@ -41,6 +42,7 @@ namespace MyDoctorAppointment.Domain.Entities
         public string Street { get; set; }
         public string City { get; set; }
         public string ZipCode { get; set; }
+        public Address() { }
         public Address(string street, string city, string zipCode) 
         {
             Validator.ThrowIfNullOrWhiteSpace(street, nameof(Street));

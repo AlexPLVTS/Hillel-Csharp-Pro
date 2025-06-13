@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AgenlIaAzG0=",
+  "dgSpecHash": "xPheNFWQsTQ=",
   "success": true,
-  "projectFilePath": "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj",
+  "projectFilePath": "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Oleksandr Pyliavets\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

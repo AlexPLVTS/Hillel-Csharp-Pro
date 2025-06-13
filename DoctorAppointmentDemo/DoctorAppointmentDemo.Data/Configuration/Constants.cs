@@ -2,7 +2,7 @@
 {
     public static class Constants
     {
-        // заменить на путь валидный для вашей директории на пк (в будущем будем использовать относительный путь)
-        public const string AppSettingsPath = "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\Configuration\\appsettings.json";
+        public const string AppSettingsPath = "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\Configuration\\appsettings.json";
+        public const string AppSettingsPathXML = "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\Configuration\\appsettingsXML.xml";
     }
 }

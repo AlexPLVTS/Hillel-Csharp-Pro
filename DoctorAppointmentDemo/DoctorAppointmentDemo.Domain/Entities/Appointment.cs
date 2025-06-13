@@ -11,13 +11,14 @@ namespace MyDoctorAppointment.Domain.Entities
         public DateTime DateTimeTo { get; set; }
         public string? Description { get; set; }
         public CancelationReasons CancelationReason { get; set; }
+        public Appointment() { }
         public Appointment(Patient patient, Doctor doctor, DateTime from, DateTime to, string? description = null)
         {
             Validator.ThrowIfNull(patient, nameof(Patient));
             Validator.ThrowIfNull(doctor, nameof(Doctor));
             Validator.ThrowIfNullOrWhiteSpace(description ?? string.Empty, nameof(Description));
-            Validator.ThrowIfTimeRangeInvalid(from, to);
-            Validator.ThrowIfInPast(from);
+            //Validator.ThrowIfTimeRangeInvalid(from, to);
+            //Validator.ThrowIfInPast(from);
             Patient = patient;
             Doctor = doctor;
             DateTimeFrom = from;
@@ -33,8 +34,8 @@ namespace MyDoctorAppointment.Domain.Entities
         {
             Validator.ThrowIfNull(newFrom, nameof(newFrom));
             Validator.ThrowIfNull(newTo, nameof(newTo));
-            Validator.ThrowIfTimeRangeInvalid(newFrom, newTo);
-            Validator.ThrowIfInPast(newFrom);
+            //Validator.ThrowIfTimeRangeInvalid(newFrom, newTo);
+            //Validator.ThrowIfInPast(newFrom);
             DateTimeFrom = newFrom;
             DateTimeTo = newTo;
             MarkAsUpdated("system");

@@ -20,3 +20,15 @@ D:\HOMEWORK\HW C# Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Deb
 D:\HOMEWORK\HW C# Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\refint\DoctorAppointmentDemo.Domain.dll
 D:\HOMEWORK\HW C# Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
 D:\HOMEWORK\HW C# Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\ref\DoctorAppointmentDemo.Domain.dll
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.deps.json
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.dll
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.AssemblyInfo.cs
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.sourcelink.json
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.dll
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\refint\DoctorAppointmentDemo.Domain.dll
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
+C:\Users\Oleksandr Pyliavets\Hillel-Csharp-Pro\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\ref\DoctorAppointmentDemo.Domain.dll
