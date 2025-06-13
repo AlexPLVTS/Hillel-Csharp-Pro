@@ -59,16 +59,16 @@ namespace MyDoctorAppointment
                 var choice = Console.ReadLine();
                 switch (choice)
                 {
-                    case "1": // Manage Doctors
+                    case "1": 
                         ManageDoctors(doctorService);
                         break;
-                    case "2": // Manage Patients
+                    case "2": 
                         ManagePatients(patientService);
                         break;
-                    case "3": // Manage Appointments
+                    case "3": 
                         ManageAppointments(appointmentService, doctorService, patientService);
                         break;
-                    case "4": // Exit
+                    case "4": 
                         exit = true;
                         break;
                     default:
@@ -233,7 +233,7 @@ namespace MyDoctorAppointment
             var surname = Console.ReadLine();
             Console.Write("Enter Illness Type (e.g., Infection): ");
             Enum.TryParse(Console.ReadLine(), true, out IllnessTypes illnessType);
-            var address = Address.Create("123 St", "City", "00001"); // You may want to gather address input similarly
+            var address = Address.Create("123 St", "City", "00001");
             var patient = Patient.Create(name, surname, illnessType, address);
             patientService.Create(patient);
             Console.WriteLine("Patient added.");
@@ -254,7 +254,7 @@ namespace MyDoctorAppointment
                     var surname = Console.ReadLine();
                     Console.Write("Enter new Illness Type (e.g., Infection): ");
                     Enum.TryParse(Console.ReadLine(), true, out IllnessTypes illnessType);
-                    var address = patient.Address; // Optionally update address
+                    var address = patient.Address;
                     var updatedPatient = Patient.Create(name, surname, illnessType, address, patient.AdditionalInfo);
                     service.Update(id, updatedPatient);
                     Console.WriteLine("Patient updated.");
