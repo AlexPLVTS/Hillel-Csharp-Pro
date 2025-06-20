@@ -1,0 +1,14 @@
+D:\HOMEWORK\HW C# Pro\HW 8\HW 8\bin\Debug\net8.0\HW 8.exe
+D:\HOMEWORK\HW C# Pro\HW 8\HW 8\bin\Debug\net8.0\HW 8.deps.json
+D:\HOMEWORK\HW C# Pro\HW 8\HW 8\bin\Debug\net8.0\HW 8.runtimeconfig.json
+D:\HOMEWORK\HW C# Pro\HW 8\HW 8\bin\Debug\net8.0\HW 8.dll
+D:\HOMEWORK\HW C# Pro\HW 8\HW 8\bin\Debug\net8.0\HW 8.pdb
+D:\HOMEWORK\HW C# Pro\HW 8\HW 8\obj\Debug\net8.0\HW 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOMEWORK\HW C# Pro\HW 8\HW 8\obj\Debug\net8.0\HW 8.AssemblyInfoInputs.cache
+D:\HOMEWORK\HW C# Pro\HW 8\HW 8\obj\Debug\net8.0\HW 8.AssemblyInfo.cs
+D:\HOMEWORK\HW C# Pro\HW 8\HW 8\obj\Debug\net8.0\HW 8.csproj.CoreCompileInputs.cache
+D:\HOMEWORK\HW C# Pro\HW 8\HW 8\obj\Debug\net8.0\HW 8.dll
+D:\HOMEWORK\HW C# Pro\HW 8\HW 8\obj\Debug\net8.0\refint\HW 8.dll
+D:\HOMEWORK\HW C# Pro\HW 8\HW 8\obj\Debug\net8.0\HW 8.pdb
+D:\HOMEWORK\HW C# Pro\HW 8\HW 8\obj\Debug\net8.0\HW 8.genruntimeconfig.cache
+D:\HOMEWORK\HW C# Pro\HW 8\HW 8\obj\Debug\net8.0\ref\HW 8.dll
