@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj": {}
+    "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj": {}
   },
   "projects": {
-    "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj": {
+    "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj",
         "projectName": "DoctorAppointmentDemo.Data",
-        "projectPath": "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj",
+        "projectPath": "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj",
         "packagesPath": "C:\\Users\\Oleksandr Pyliavets\\.nuget\\packages\\",
-        "outputPath": "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\obj\\",
+        "outputPath": "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj": {
-                "projectPath": "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj"
+              "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj"
               }
             }
           }
@@ -48,7 +48,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -70,23 +70,29 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.301, 9.0.301]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj": {
+    "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj",
         "projectName": "DoctorAppointmentDemo.Domain",
-        "projectPath": "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj",
+        "projectPath": "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj",
         "packagesPath": "C:\\Users\\Oleksandr Pyliavets\\.nuget\\packages\\",
-        "outputPath": "D:\\HOMEWORK\\HW C# Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Oleksandr Pyliavets\\Hillel-Csharp-Pro\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -119,7 +125,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -135,12 +141,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.301, 9.0.301]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
