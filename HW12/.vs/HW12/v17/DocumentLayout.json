@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HOMEWORK\\HW C# Pro\\HW12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|WebPage{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\HOMEWORK\\HW C# Pro\\HW12\\HTMLPage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|WebPage{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:HTMLPage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:68960190:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7911747:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HTMLPage1.html",
+              "DocumentMoniker": "D:\\HOMEWORK\\HW C# Pro\\HW12\\HTMLPage1.html",
+              "RelativeDocumentMoniker": "HTMLPage1.html",
+              "ToolTip": "D:\\HOMEWORK\\HW C# Pro\\HW12\\HTMLPage1.html",
+              "RelativeToolTip": "HTMLPage1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-05T10:46:42.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
