@@ -1,0 +1,36 @@
+﻿
+@model List<NoteTakingApp.Models.Note>
+
+@{
+    ViewData["Title"] = "All Notes";
+}
+
+<div class="text-center">
+    <h1 class="display-4">My Notes</h1>
+</div>
+
+<div class="note-container">
+    @if (Model.Any())
+    {
+        @foreach (var note in Model)
+        {
+            <div class="note-card">
+                <h2>@note.Title</h2>
+                <small class="text-muted">Created on: @note.CreationDate.ToString("g")</small>
+
+                <div class="tags">
+                    @foreach (var tag in note.Tags)
+                    {
+                        <span class="tag">#@tag</span>
+                    }
+                </div>
+
+                <p class="note-text">@note.Text</p>
+            </div>
+        }
+    }
+    else
+    {
+        <p>There are no notes to display.</p>
+    }
+</div>

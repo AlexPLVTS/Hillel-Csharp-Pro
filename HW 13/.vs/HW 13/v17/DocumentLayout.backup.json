@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HOMEWORK\\HW C# Pro\\HW 13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{994EB130-F6E0-4003-AB5F-59821ED294CC}|NoteTakingApp\\NoteTakingApp.csproj|d:\\homework\\hw c# pro\\hw 13\\notetakingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994EB130-F6E0-4003-AB5F-59821ED294CC}|NoteTakingApp\\NoteTakingApp.csproj|solutionrelative:notetakingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994EB130-F6E0-4003-AB5F-59821ED294CC}|NoteTakingApp\\NoteTakingApp.csproj|d:\\homework\\hw c# pro\\hw 13\\notetakingapp\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{994EB130-F6E0-4003-AB5F-59821ED294CC}|NoteTakingApp\\NoteTakingApp.csproj|solutionrelative:notetakingapp\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994EB130-F6E0-4003-AB5F-59821ED294CC}|NoteTakingApp\\NoteTakingApp.csproj|d:\\homework\\hw c# pro\\hw 13\\notetakingapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{994EB130-F6E0-4003-AB5F-59821ED294CC}|NoteTakingApp\\NoteTakingApp.csproj|solutionrelative:notetakingapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994EB130-F6E0-4003-AB5F-59821ED294CC}|NoteTakingApp\\NoteTakingApp.csproj|d:\\homework\\hw c# pro\\hw 13\\notetakingapp\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994EB130-F6E0-4003-AB5F-59821ED294CC}|NoteTakingApp\\NoteTakingApp.csproj|solutionrelative:notetakingapp\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994EB130-F6E0-4003-AB5F-59821ED294CC}|NoteTakingApp\\NoteTakingApp.csproj|d:\\homework\\hw c# pro\\hw 13\\notetakingapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994EB130-F6E0-4003-AB5F-59821ED294CC}|NoteTakingApp\\NoteTakingApp.csproj|solutionrelative:notetakingapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOMEWORK\\HW C# Pro\\HW 13\\NoteTakingApp\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "NoteTakingApp\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "D:\\HOMEWORK\\HW C# Pro\\HW 13\\NoteTakingApp\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "NoteTakingApp\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T10:20:33.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\HOMEWORK\\HW C# Pro\\HW 13\\NoteTakingApp\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "NoteTakingApp\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\HOMEWORK\\HW C# Pro\\HW 13\\NoteTakingApp\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "NoteTakingApp\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:18:41.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\HOMEWORK\\HW C# Pro\\HW 13\\NoteTakingApp\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "NoteTakingApp\\Models\\Contact.cs",
+              "ToolTip": "D:\\HOMEWORK\\HW C# Pro\\HW 13\\NoteTakingApp\\Models\\Contact.cs",
+              "RelativeToolTip": "NoteTakingApp\\Models\\Contact.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:17:30.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\HOMEWORK\\HW C# Pro\\HW 13\\NoteTakingApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "NoteTakingApp\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\HOMEWORK\\HW C# Pro\\HW 13\\NoteTakingApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "NoteTakingApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-25T10:09:11.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HOMEWORK\\HW C# Pro\\HW 13\\NoteTakingApp\\Program.cs",
+              "RelativeDocumentMoniker": "NoteTakingApp\\Program.cs",
+              "ToolTip": "D:\\HOMEWORK\\HW C# Pro\\HW 13\\NoteTakingApp\\Program.cs",
+              "RelativeToolTip": "NoteTakingApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:00:28.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

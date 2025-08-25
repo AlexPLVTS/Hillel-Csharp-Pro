@@ -1,0 +1,29 @@
+﻿
+@model List<NoteTakingApp.Models.Contact>
+
+@{
+    ViewData["Title"] = "My Contacts";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Contact List</h1>
+</div>
+
+<div class="contact-container">
+    @foreach (var contact in Model)
+    {
+        <div class="contact-card">
+            <h2>@contact.Name</h2>
+            <hr />
+            <p><strong>Mobile:</strong> @contact.MobilePhone</p>
+
+            @if (!string.IsNullOrEmpty(contact.AlternativeMobilePhone))
+            {
+                <p><strong>Alternative Mobile:</strong> @contact.AlternativeMobilePhone</p>
+            }
+
+            <p><strong>Email:</strong> <a href="mailto:@contact.Email">@contact.Email</a></p>
+            <p class="description"><em>@contact.ShortDescription</em></p>
+        </div>
+    }
+</div>
